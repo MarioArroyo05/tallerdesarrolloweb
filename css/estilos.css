@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: burlywood;
+  }
+  
+  
+  .Tit_prin{
+    text-align: center;
+    background: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    top: 5rem ;
+
+  }
+  .info  {
+    background-color: antiquewhite;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif ;
+    padding-left: 3% ;
+    padding-right: 3%;
+    padding-top: 3%;
+
+  }
+  footer{
+    background: ;
+    margin: 2%;
+  }
+
+  .Titulo{
+    background: navajowhite;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 2em;
+  }
+  .infohe{
+    text-align: justify;
+    margin-left: 2em;
+    margin-bottom: 2em;
+    background-color:antiquewhite;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 3%;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .bt_volver{
+    margin-left: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+   
